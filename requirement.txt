@@ -1,0 +1,44 @@
+
+# Scientific Computing
+numpy
+pandas
+scipy
+scikit-learn
+
+# PDF & Document Processing
+pymupdf
+firecrawl-anydoc
+
+# NLP & Machine Learning
+torch
+transformers
+sentence-transformers
+accelerate
+spacy
+
+# LLM Extraction
+pydantic
+
+
+# Embeddings & Vector Search
+faiss-cpu
+lancedb
+
+# Knowledge Graph
+networkx
+
+# Evaluation & Experiment Tracking
+datasets
+
+# Configuration & Utilities
+pyyaml
+python-dotenv
+tqdm
+
+# Development & Testing
+pytest
+pytest-asyncio
+
+# Research Notebooks & Visualization
+matplotlib
+seaborn
